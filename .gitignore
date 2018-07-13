@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+target
+
+
+# Eclipse
+.settings
+.classpath
+.project
+
+# IntelliJ
+.idea
+*.iml
